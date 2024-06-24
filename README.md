@@ -1,5 +1,12 @@
 ﻿# learn_kotlin
 
+## hello_world
+- 코틀린 기본 문법
+
+## ActivityAndFragment
+- 액티비티 화면전환 해보기
+- 프래그먼트 화면전환 해보고
+
 ## LearningViews
 - 뷰의 공통 특성 (1) 너비와 높이
 - 뷰의 공통 특성 (2) dp
