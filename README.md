@@ -15,3 +15,9 @@
 - 여러가지 뷰(2) 이미지뷰
 - 여러가지 뷰(3) 버튼
 - 여러가지 뷰(4) 에디트텍스트
+
+## LearningLayouts
+- 리니어 레이아웃(LinearLayout)
+- 상대적 레이아웃(Relative Layout)
+- 컨스트레인트 레이아웃(Constraint Layout)
+- 반응형 UI 만들기
